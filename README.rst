@@ -1,7 +1,7 @@
 DHCPKit Cisco
 =============
 
-This package contains contains extensions to DHCPKit specific to Cisco devices.
+This package contains extensions to DHCPKit specific to Cisco devices.
 
 Distribution status
 -------------------
